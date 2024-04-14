@@ -1,5 +1,9 @@
-// MyFirstRepo.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+ * FILE: A7.cpp
+ * PROJECT : Assignment 6
+ * PROGRAMMER : Aryankumar Jitendrabhai Malaviya (8963030)
+ * FIRST VERSION : 2024 - 04 - 13
+ */
 
 #include <iostream>
 
